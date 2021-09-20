@@ -32,7 +32,7 @@ public class Main {
             if (currVal == 1) {
                 totalDen += (Math.pow(2,i));
                 // Checks if the current value is 1, therefore needing to be powered.
-                // To add the denary power, i is used to power 2 as the original binary is reversed, i represents the correct power.
+                // To add the denary power, i is used to power 2 as the original binary is reversed, i represents the correct power
             }
         }
 
